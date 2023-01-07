@@ -26,12 +26,14 @@
 /* header and navigation stylea */
 nav{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
      padding: : 50px 200px;
+     margin-top:20px
 }
 .nav-title{
     font-weight: 800;
     font-size: 45px;
+    margin-left:60px;
 }
 nav ul{
     display: flex;
